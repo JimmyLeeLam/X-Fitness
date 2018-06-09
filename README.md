@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## X-Fitness
 title: X-Fitness
 description: BC's Biggest Privately owned gym chain!
 You can use the [editor on GitHub](https://github.com/JimmyLeeLam/X-Fitness/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
